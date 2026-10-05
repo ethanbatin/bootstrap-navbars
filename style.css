@@ -1,0 +1,28 @@
+.container-fluid {
+    background-color: #133B40;
+}
+
+.navbar {
+    background-color: #133B40;
+}
+
+.navbar a {
+    color: white;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.navbar-brand:hover {
+    color: white;
+}
+
+.bi-instagram {
+    font-size: 24px;
+}
+
+.nav img {
+    height: 50px;
+    width: auto;
+}
