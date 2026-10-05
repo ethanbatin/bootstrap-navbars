@@ -48,3 +48,59 @@
     height: 70px;
     width: auto;
 }
+
+.buzz-navbar {
+    background-color: rgb(48, 73, 95);
+    color: white;
+}
+
+.buzz-navbar .navbar {
+    background-color: rgb(48, 73, 95);
+    color: white;
+}
+
+.buzz-navbar .nav-item {
+    color: white;
+}
+
+.buzz-navbar h4 {
+    color: white;
+}
+
+.buzz-navbar img {
+    height: 70px;
+    width: auto;
+}
+
+.aloha-shop {
+    color: #EDC601 !important;
+}
+
+.navbar-light .nav-link {
+    color: black;
+}
+
+.navbar-light .nav-link:hover {
+    color: black;
+}
+
+.aloha-shop {
+    color: #EDC601 !important;
+}
+
+.dukes-navbar {
+    background-color: #017574;
+    color: white;
+}
+
+.dukes-navbar .nav-link {
+    color: white;
+}
+
+.dukes-navbar .nav-link:hover {
+    color: white;
+}
+
+.dukes-navbar .takeout {
+    color: #F1A228 !important;
+}
