@@ -48,3 +48,26 @@
     height: 70px;
     width: auto;
 }
+
+.buzz-navbar {
+    background-color: rgb(48, 73, 95);
+    color: white;
+}
+
+.buzz-navbar .navbar {
+    background-color: rgb(48, 73, 95);
+    color: white;
+}
+
+.buzz-navbar .nav-item {
+    color: white;
+}
+
+.buzz-navbar h4 {
+    color: white;
+}
+
+.buzz-navbar img {
+    height: 70px;
+    width: auto;
+}
