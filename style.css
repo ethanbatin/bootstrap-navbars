@@ -87,3 +87,20 @@
 .aloha-shop {
     color: #EDC601 !important;
 }
+
+.dukes-navbar {
+    background-color: #017574;
+    color: white;
+}
+
+.dukes-navbar .nav-link {
+    color: white;
+}
+
+.dukes-navbar .nav-link:hover {
+    color: white;
+}
+
+.dukes-navbar .takeout {
+    color: #F1A228 !important;
+}
