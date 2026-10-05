@@ -71,3 +71,19 @@
     height: 70px;
     width: auto;
 }
+
+.aloha-shop {
+    color: #EDC601 !important;
+}
+
+.navbar-light .nav-link {
+    color: black;
+}
+
+.navbar-light .nav-link:hover {
+    color: black;
+}
+
+.aloha-shop {
+    color: #EDC601 !important;
+}
